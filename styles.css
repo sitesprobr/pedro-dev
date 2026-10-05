@@ -38,16 +38,13 @@ body {
     text-align: center;
 }
 
-.marca {
-    font-size: 1.8rem;
-    font-weight: 800;
-    color: var(--azul);
-    letter-spacing: 0.02em;
-    line-height: 1.2;
-}
-
-.marca span {
-    color: var(--texto-suave);
+.logo {
+    width: 220px;
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto 0.5rem;
+    border-radius: 16px;
 }
 
 .sub {
